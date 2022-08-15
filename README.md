@@ -1,8 +1,21 @@
-[![Build](https://github.com/CodeUtilities/CodeUtilities/actions/workflows/build.yml/badge.svg)](https://github.com/CodeUtilities/CodeUtilities/actions/workflows/build.yml)
 # CodeUtilities
 CodeUtilities is a mod created specifically for DiamondFire by members of the community which aims to provide Quality of Life features.
 
+## Features
+Some of the features of CodeUtilities are:
+- Scripting (Now with df sound mappings!)
+- Sidechat
+- Lagslayer HUD
+- Streamer Mode (hides staff stuff)
+- AFK Messages (AFK messages are sent to players who dm you!)
 
-You can report issues on [the issues tab](https://github.com/CodeUtilities/CodeUtilities/issues)
+## Installation
+- Download the mod from the releases.
+- Install the mod in the mod folder.
+- Restart the game.
+- Enjoy!
 
-You can join our [discord here](https://discord.gg/WY6tPFE)
+## Building from source
+- Download the source from the github repo.
+- Open intellij and build the mod. using gradle.
+- Enjoy!
