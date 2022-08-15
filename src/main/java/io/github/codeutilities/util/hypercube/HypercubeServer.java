@@ -8,6 +8,7 @@ import net.minecraft.client.network.ServerInfo;
 public enum HypercubeServer {
     PROXY(null, ""),
     NODE_BETA("beta", " Beta"),
+    NODE_EVENTS("events", " Events"),
     NODE_1("node1", " Node1"),
     NODE_2("node2", " Node2"),
     NODE_3("node3", " Node3"),
