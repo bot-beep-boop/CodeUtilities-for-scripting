@@ -23,9 +23,14 @@ public class SoundUtil {
             );
         }
     }
+
+    public static HashMap<String, String> getSoundMap() {
+        return soundMap;
+    }
+
     /** HASHMAP CONTRIBUTORS: RedCommand, Infernity, shermy_the_cat      **
      ** 													TY 🥰 		 **/
-    //this is "borrowed" from wonk0
+    // Permanently borrowed from Wonk0 😊🔪
     static HashMap<String, String> soundMap = new HashMap<>() {{
         // Blocks
         put("Pling", "block.note_block.pling");
@@ -604,4 +609,8 @@ public class SoundUtil {
         put("Totem Use", "item.totem.use");
         put("Wax Copper", "item.honeycomb.wax_on");
     }};
+
+    public Object GetMinecraftSound(HashMap soundMap, String soundName) {
+        return soundMap.get(soundName);
+    }
 }
