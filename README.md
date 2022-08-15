@@ -1,5 +1,6 @@
 # CodeUtilities
-CodeUtilities is a mod created specifically for DiamondFire by members of the community which aims to provide Quality of Life features.
+This isnt supported anymore!
+USE AT YOUR OWN RISK!
 
 ## Features
 Some of the features of CodeUtilities are:
