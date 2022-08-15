@@ -1,6 +1,6 @@
 # CodeUtilities
 This isnt supported anymore!
-USE AT YOUR OWN RISK!
+Use this instead: https://github.com/TechStreetDev/DFScript
 
 ## Features
 Some of the features of CodeUtilities are:
